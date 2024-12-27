@@ -1,2 +1,2 @@
 # SnakeGame
-Snake Game made using basic webdev framework
+Download the folder and run the HTML file. 
