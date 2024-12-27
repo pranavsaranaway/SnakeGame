@@ -1,0 +1,25 @@
+#gameCanvas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#score {
+  text-align: center;
+  font-size: 140px;
+  font-family: "Antic Slab", serif;
+}
+
+#highScore {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Antic Slab", serif;
+  margin-top: 20px;
+}
+
+#highScoreList {
+  font-size: 20px;
+  font-family: "Antic Slab", serif;
+  margin-top: 20px;
+}
